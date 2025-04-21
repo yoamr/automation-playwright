@@ -1,0 +1,19 @@
+{
+  "name": "automation-playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  },
+  "description": "## ✅ Features - Automated flow: \"Thinking in HTML\" book purchase - Runs on Chrome and Firefox - Parallel execution - HTML test report - Docker support",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
