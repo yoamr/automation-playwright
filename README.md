@@ -42,7 +42,7 @@ Setup Instructions:
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/automation-playwright.git
+git clone https://github.com/yoamr/automation-playwright.git
 cd automation-playwright
 
 2. Install Dependencies:
